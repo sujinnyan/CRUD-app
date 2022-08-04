@@ -9,7 +9,8 @@ It will be a space where customers can freely write and sell the furniture they 
 
 <h1 align="center">#Screenshot</h1>
 
-![Homepage-img](https://user-images.githubusercontent.com/97710314/178643603-8da78870-c623-45c1-82cf-934309fa86ec.png)
+
+![스크린샷 2022-08-04 오후 3 07 40](https://user-images.githubusercontent.com/97710314/182933545-19d32009-3d21-4e06-badf-ade73b0d7d08.png)
 
 
 
