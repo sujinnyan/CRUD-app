@@ -36,7 +36,7 @@ It will be a space where customers can freely write and sell the furniture they 
 <h1 align="center">#Author</h1>
 <p align="center">
 **Sujin An**<br>
-- [Github repository](https://github.com/sujinnyan/Create-App-Furniture-Market.git)<br>
+- [Github repository](https://github.com/sujinnyan/CRUD-app.git)<br>
 - [Email](ansujinny@gmail.com)<br>
-- [Website](https://create-app-furniture-market.herokuapp.com/)
+- [Website](https://new-furniture.herokuapp.com/)
 </p>
